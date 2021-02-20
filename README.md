@@ -6,7 +6,7 @@ Study the sequence diagram below and translate it to Java code. The implementati
 only contain what can be seen in the diagram and all but the return statements and method
 calls inside the methods can be left out as the diagram does not tell us anything about it.
 
-![figure](http://image1.png)
+![figure](https://raw.githubusercontent.com/iloveyii/drone/master/figure1.png)
 
 
 ### Points awarded:
